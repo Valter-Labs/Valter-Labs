@@ -1,143 +1,105 @@
 <div align="center">
 
-<!-- ========================== -->
-<!-- ======= HEADER =========== -->
-<!-- ========================== -->
+<!-- HEADER COM BORDA GRADIENTE -->
+<div align="center">
+
+<table>
+<tr><td>
 
 <div style="
-background: linear-gradient(135deg, #ff6d00, #ff3f3f, #ffc400);
-padding: 2px;
-border-radius: 8px;
-width: 90%;
-max-width: 760px;
+  background: linear-gradient(135deg, #ff6d00, #ff3f3f, #ffc400);
+  padding: 2px;
+  border-radius: 10px;
 ">
   <div style="
-    background: #0a0a0a;
-    padding: 40px 20px;
-    border-radius: 6px;
+    background: #050505;
+    padding: 32px 20px;
+    border-radius: 8px;
   ">
-    <h1 style="font-weight:800; letter-spacing:3px; font-size:32px; margin:0;">
-      ALEXANDRE • VALTER LABS
+    <h1 style="font-weight:800; letter-spacing:4px; margin:0; font-size:30px;">
+      VALTER LABS
     </h1>
-    <p style="color:#aaa; font-size:14px; letter-spacing:1px; margin-top:8px;">
-      AUTOMATION ENGINEER — AI SYSTEMS — LOW-CODE ARCHITECT
+    <p style="margin: 6px 0 0; font-size:13px; letter-spacing:2px; color:#b3b3b3;">
+      N8N SPECIALIST · AI AUTOMATION · LOW-CODE ENGINEER
     </p>
   </div>
+</div>
+
+</td></tr>
+</table>
+
+</div>
+
+
+<br/>
+
+<!-- LINHA TIPOGRÁFICA ANIMADA (SEGURA E ACEITA NO GITHUB) -->
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=900&center=true&vCenter=true&width=650&color=FFFFFF&lines=Automação+Avançada+com+n8n;Sistemas+Autônomos+com+IA;Integração+Profunda+via+APIs;Fluxos+que+Operam+Sozinhos;Arquitetura+Low-code+em+Alto+Nível" 
+/>
+
+<br/><br/>
+
+<!-- BLOCO SOBRE MIM -->
+<table><tr><td>
+
+<div style="
+  border: 1px solid #222;
+  padding: 24px 20px;
+  border-radius: 10px;
+  background: #050505;
+">
+  <p style="color:#e6e6e6; font-size:14px; line-height:1.7; margin:0; text-align:left;">
+    Eu trabalho desenhando <strong>sistemas que não precisam de supervisão humana</strong>.<br/><br/>
+    Uso n8n, IA e integrações profundas para transformar processos manuais em
+    <strong>fluxos autônomos</strong>, conectando dados, APIs, pessoas e rotinas
+    em uma arquitetura limpa e previsível.
+    <br/><br/>
+    Meu foco: sistemas que você esquece que existem — porque nunca quebram.
+  </p>
+</div>
+
+</td></tr></table>
+
 </div>
 
 <br/>
 
-<!-- Animated typing line -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Engenharia+de+Automação+Avançada;Sistemas+Autônomos+com+IA;Arquitetura+com+n8n+em+Alto+Nível;Integração+Profunda+com+APIs;Fluxos+que+Operam+Sozinhos" />
+---
 
-<br/><br/>
+## Stack principal
 
-<!-- ========================== -->
-<!-- ======= FEATURE BLOCK ==== -->
-<!-- ========================== -->
+<div align="center">
 
-<div style="
-border: 1px solid #222;
-padding: 24px;
-border-radius: 10px;
-width: 90%;
-max-width: 760px;
-background: linear-gradient(145deg, #0d0d0d, #0b0b0b);
-box-shadow: 0 0 18px rgba(255,109,0,0.07);
-">
-  <h2 style="margin-top:0; letter-spacing:1px; font-weight:600;">Sobre mim</h2>
-  <p style="color:#ccc; line-height:1.6; font-size:15px;">
-    Sou especialista em engenharia de automação, IA aplicada e arquitetura de sistemas inteligentes.
-    Desenvolvo fluxos avançados usando <strong>n8n</strong>, integrações profundas com APIs, orquestrações
-    distribuídas e motores autônomos que executam processos completos sem intervenção humana.
-  </p>
-</div>
-
-<br/><br/>
-
-<!-- ========================== -->
-<!-- ======= HIGHLIGHT BAR ==== -->
-<!-- ========================== -->
-
-<div style="
-width: 90%;
-max-width: 760px;
-height: 2px;
-background: linear-gradient(90deg, #ff6d00, #ff3f3f, #ffc400);
-opacity: 0.85;
-border-radius: 4px;
-">
-</div>
-
-<br/><br/>
-
-<!-- ========================== -->
-<!-- ======= SKILLS GRID ====== -->
-<!-- ========================== -->
-
-<div style="
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-gap: 20px;
-width: 90%;
-max-width: 760px;
-">
-
-  <div style="
-    padding: 18px;
-    border-radius: 8px;
-    background: #111;
-    border: 1px solid #1c1c1c;
-  ">
-    <h3 style="margin:0 0 8px; font-size:17px;">Automação Avançada</h3>
-    <p style="color:#bbb; font-size:14px; line-height:1.5;">
-      Construção de arquiteturas completas com n8n, webhooks,
-      tratamento de dados, paralelismo e execução distribuída.
-    </p>
-  </div>
-
-  <div style="
-    padding: 18px;
-    border-radius: 8px;
-    background: #111;
-    border: 1px solid #1c1c1c;
-  ">
-    <h3 style="margin:0 0 8px; font-size:17px;">IA Aplicada</h3>
-    <p style="color:#bbb; font-size:14px; line-height:1.5;">
-      OpenAI, Claude e Gemini integrados em pipelines reais,
-      motores autônomos, agentes cognitivos e decisão baseada em IA.
-    </p>
-  </div>
-
-  <div style="
-    padding: 18px;
-    border-radius: 8px;
-    background: #111;
-    border: 1px solid #1c1c1c;
-  ">
-    <h3 style="margin:0 0 8px; font-size:17px;">Integrações Profundas</h3>
-    <p style="color:#bbb; font-size:14px; line-height:1.5;">
-      REST APIs, CRMs, WhatsApp, bancos de dados, SaaS corporativos,
-      sistemas internos e fluxos híbridos.
-    </p>
-  </div>
+<img src="https://img.shields.io/badge/n8n-ff6d00?style=for-the-badge&logo=n8n&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Anthropic-ff3f3f?style=for-the-badge&logo=anthropic&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Gemini-ffc400?style=for-the-badge&logo=google&logoColor=000" height="28" />
+<img src="https://img.shields.io/badge/Postman-ff6d00?style=for-the-badge&logo=postman&logoColor=white" height="28" />
 
 </div>
 
-<br/><br/>
+<br/>
 
-<!-- ========================== -->
-<!-- ======= BOTTOM BAR ======= -->
-<!-- ========================== -->
+---
 
-<div style="
-margin-top:20px;
-padding: 14px 0;
-font-size:12px;
-color:#666;
-letter-spacing:1px;
-">
-Valter Labs — Engenharia de Automação e IA Aplicada
-</div>
+## O que eu faço
 
-</div>
+```txt
+┌──────────────────────── AUTOMATION ENGINEERING ────────────────────────┐
+│  • Arquiteturas completas em n8n                                       │
+│  • Orquestração de webhooks, filas, serviços e integrações            │
+│  • Processamento paralelo, observabilidade e resiliência              │
+└────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────── AI SYSTEMS ──────────────────────────────┐
+│  • OpenAI / Claude / Gemini integrados a workflows reais              │
+│  • Agentes, roteadores, análise contextual e decisão automatizada     │
+│  • IA conectada a dados internos e regras de negócio                  │
+└────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────── INTEGRAÇÕES ─────────────────────────────┐
+│  • CRMs, ERPs, WhatsApp, bancos, planilhas, SaaS                      │
+│  • REST APIs, autenticação, transformações e pipelines complexos      │
+│  • Low-code com cabeça de engenheiro                                  │
+└────────────────────────────────────────────────────────────────────────┘
