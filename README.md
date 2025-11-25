@@ -1,46 +1,59 @@
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Valter+Labs;NodusLabs+Founder;Automação+Inteligente;Low-code+Expert" alt="Typing SVG" />
-  </a>
 
-  <br/>
+# ⚡ NodusLabs  
+### **Automação Inteligente • IA Aplicada • Low-Code Engineering**
 
-  <p style="font-size: 14px; color: #8b949e;">
-    TRANSFORMANDO PROCESSOS COMPLEXOS EM FLUXOS SIMPLES
-  </p>
-  
-  <br/>
-
-  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="100%" style="border-radius: 6px; height: 180px; object-fit: cover; opacity: 0.8;" alt="Automation Banner"/>
-
-  <br/><br/>
-
-  <h3 style="color: #c9d1d9; letter-spacing: 2px; font-size: 14px;">STACK TECNOLÓGICA</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" height="30"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
-    <img src="https://img.shields.io/badge/Anthropic-D09D74?style=for-the-badge&logo=anthropic&logoColor=white" height="30"/>
-    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="30"/>
-  </p>
-
-  <br/>
 <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valter-Labs&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6D5A&fire=FF6D5A&currStreakNum=F7F7F7&sideNums=F7F7F7&currStreakLabel=F7F7F7&sideLabels=F7F7F7" height="180" alt="Valter's Streak"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Valter+Labs;Founder+%7C+NodusLabs;Intelligent+Automation;AI+%2B+Low-code+Engineer;Especialista+em+n8n+%26+IA" />
 
-  <br/><br/>
+<br/><br/>
 
-  <p>
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-    </a>
-    <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-    </a>
-  </p>
+<img src="https://i.imgur.com/HkC3b0F.gif" width="100%" style="border-radius: 8px; opacity: 0.85; object-fit: cover; height: 190px" />
 
-  <br/>
+<br/><br/>
+
+### **STACK PRINCIPAL**
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-%23FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/OpenAI-%23412991?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Anthropic-%23D09D74?style=for-the-badge&logo=anthropic&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Gemini-%238E75B2?style=for-the-badge&logo=google&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
+</p>
+
+<br/>
+
+---
+
+## 🔥 O que eu faço
+✨ Transformo processos complexos em **sistemas autônomos** usando:  
+- **n8n avançado** (webhooks, APIs, automações completas)  
+- **Integrações AI-first** (OpenAI, Claude, Gemini)  
+- **Bots, pipelines e sistemas escaláveis**  
+- **Soluções low-code de alta performance**  
+
+---
+
+### 📈 Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Valter-Labs&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6D5A&fire=FF6D5A" height="180" />
+
+---
+
+<br/>
+
+### 🌐 Contato
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+</a>
+
+<a href="mailto:SEUEMAIL@GMAIL.COM">
+  <img src="https://img.shields.io/badge/Contato-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+</a>
+
+<br/><br/>
+
 </div>
