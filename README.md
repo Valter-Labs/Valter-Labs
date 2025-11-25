@@ -27,9 +27,20 @@
   </p>
 
   <br/>
-<br/><br/>
+<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Valter-Labs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F7F7F7" height="180" alt="Valter's Stats"/>
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valter-Labs&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6D5A&fire=FF6D5A&currStreakNum=F7F7F7&sideNums=F7F7F7&currStreakLabel=F7F7F7&sideLabels=F7F7F7" height="180" alt="Valter's Streak"/>
+
+  <br/><br/>
+
+  <p>
+    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+    </a>
+    <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+    </a>
+  </p>
+
   <br/>
 </div>
