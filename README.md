@@ -20,13 +20,9 @@
   
   <p>
     <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" height="30"/>
-    
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
-    
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
-    
     <img src="https://img.shields.io/badge/Anthropic-D09D74?style=for-the-badge&logo=anthropic&logoColor=white" height="30"/>
-    
     <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="30"/>
   </p>
 
