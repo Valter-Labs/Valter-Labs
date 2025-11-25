@@ -27,5 +27,9 @@
   </p>
 
   <br/>
+<br/><br/>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=Valter-Labs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F7F7F7" height="180" alt="Valter's Stats"/>
+  
+  <br/>
 </div>
