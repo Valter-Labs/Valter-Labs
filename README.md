@@ -12,7 +12,7 @@ Tudo dentro deste bloco deve ir para o seu README.md
 <!-- ========================== -->
 
 <h1 style="font-weight:800; letter-spacing:6px; font-size:34px; margin-bottom:0;">
-ALEXANDRE
+Valter Labs
 </h1>
 
 <h3 style="font-weight:300; letter-spacing:3px; margin-top:4px; color:#d6d6d6;">
