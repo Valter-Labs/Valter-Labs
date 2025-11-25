@@ -1,82 +1,95 @@
 <div align="center">
 
-<h1 style="font-weight:700; letter-spacing:6px; margin-bottom:-10px;">
-N O D U S L A B S
+<h1 style="font-weight:800; letter-spacing:4px; margin-bottom:-10px;">
+A L E X A N D R E  &nbsp;•&nbsp;  V A L T E R  L A B S
 </h1>
 
-<h3 style="font-weight:300; letter-spacing:2px;">
-AUTOMAÇÃO • IA • SISTEMAS AUTÔNOMOS
+<h3 style="font-weight:300; letter-spacing:2px; color:#ccc;">
+Automation Engineer • N8N Specialist • AI Systems Designer
 </h3>
 
 <br/>
 
-<pre style="
-font-size: 14px;
-padding: 18px;
-border-radius: 6px;
-border: 1px solid #333;
-background: linear-gradient(90deg, #111, #0c0c0c);
+<!-- ANIMAÇÃO TIPOGRÁFICA SEGURA -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2300&pause=800&center=true&vCenter=true&color=FFFFFF&width=650&lines=Automação+Avançada+com+n8n;Integração+Profunda+com+APIs;Sistemas+Aut%C3%B4nomos+com+IA;Engenharia+Low-code+em+Alto+N%C3%ADvel;Arquitetura+de+Fluxos+Complexos" />
+
+<br/><br/>
+
+<!-- BLOCO CENTRAL -->
+<div style="
+border: 1px solid #222;
+padding: 22px;
+border-radius: 8px;
 width: 80%;
-max-width: 620px;
-white-space: pre-wrap;">
-Engenharia de automação especializada em fluxos inteligentes,
-n8n avançado, integrações profundas e sistemas que funcionam sozinhos.
-</pre>
+max-width: 680px;
+background: linear-gradient(135deg, #000000, #0c0c0c, #1a1a1a);
+">
+<p style="font-size:15px; line-height:1.6; color:#e6e6e6;">
+Sou especialista em <strong>automação, IA aplicada e arquitetura de sistemas inteligentes</strong>.
+Desenvolvo fluxos avançados utilizando <strong>n8n</strong>, 
+integrações profundas com APIs, motores autônomos e pipelines que
+operam processos inteiros sem intervenção humana.
+<br/><br/>
+Meu foco é construir sistemas com precisão: simples por fora, extremamente poderosos por dentro.
+</p>
+</div>
 
 </div>
 
 ---
 
-## Sobre mim
+## Áreas em que atuo
 
-Sou especialista em automação com n8n, integrações baseadas em APIs, e implementação de IA aplicada em pipelines reais.  
-Construo sistemas autônomos, escaláveis e desenhados para eliminar processos manuais.
+### Automação Avançada
+Construção de arquiteturas completas em n8n, com rotinas orquestradas, webhooks, tratamento de dados e integrações entre serviços.
 
-Foco em:
+### IA Aplicada
+Implementação de inteligência artificial em processos reais usando OpenAI, Claude e Gemini.  
+Criação de agentes, motores de decisão e fluxos autônomos.
 
-- Arquiteturas low-code de alta performance  
-- Pipelines autônomos com IA (OpenAI, Claude, Gemini)  
-- Orquestração completa de dados, webhooks e APIs  
-- Bots inteligentes conectados a operações reais  
-- Infraestruturas que escalam sem aumentar custo operacional  
+### Engenharia Low-Code
+Soluções escaláveis usando tecnologia low-code de alto nível, respeitando padrões de engenharia.
+
+### Bots e Integrações Profundas
+Desenvolvimento de bots inteligentes, conexões com WhatsApp, CRMs, bancos de dados e sistemas corporativos.
 
 ---
 
 ## Stack Principal
 
-- n8n (avançado)  
-- OpenAI / Anthropic / Gemini  
-- Postman e APIs REST  
+- n8n (nível avançado)  
+- OpenAI / Anthropic / Google Gemini  
+- REST APIs / Webhooks / JSON  
 - Automação distribuída  
-- Webhooks, integrações e CRMs  
-- Low-code como engenharia séria  
+- Integração com CRMs e softwares SaaS  
+- Infraestrutura low-code  
 
 ---
 
-## O que eu construo
+## Minha Filosofia
 
-- Sistemas capazes de operar processos inteiros de forma autônoma  
-- Motores de decisão com IA integrada  
-- Bots inteligentes conectados a CRMs, WhatsApp e plataformas SaaS  
-- Fluxos operacionais completos com monitoramento e resiliência  
-- Integrações entre serviços, dados, APIs e operações internas  
+Sistemas precisam ser:
 
----
+- estáveis  
+- elegantes  
+- resilientes  
+- automatizados ao máximo  
+- fáceis de manter  
+- difíceis de quebrar  
 
-## Filosofia de trabalho
-
-Simplicidade, performance, clareza e automação que realmente resolve.  
-Nenhum excesso visual, nenhum ruído, apenas sistemas que funcionam.
+Autonomia > Complexidade.  
+Clareza > exibicionismo técnico.  
+Resultado > barulho.
 
 ---
 
 ## Contato
 
-LinkedIn: coloque_seu_link  
-Email: coloque_seu_email
+Email: contato.noduslabs@gmail.com  
+LinkedIn: -
 
 ---
 
-<div align="center" style="margin-top:40px; opacity:0.6;">
-NodusLabs — Engenharia para Automação Inteligente
+<div align="center" style="margin-top:40px; font-size:12px; opacity:0.6;">
+Valter Labs — Engenharia de Automação e IA aplicada
 </div>
